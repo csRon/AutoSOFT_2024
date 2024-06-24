@@ -21,4 +21,7 @@ pip install -r requirements.txt
 ```
 4. Open the jupyter notebook (I recommend using VS Code for it) and execute the cells (select the correct kernel --> .venv..)
 
+## References
+The first task is based on Self-Driving Car Engineer Nanodegree Program by Udacity (https://github.com/udacity/CarND-LaneLines-P1). Parts from the code are also from (https://github.com/markmisener/udacity-self-driving-car-engineer)
+
 
